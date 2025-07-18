@@ -87,7 +87,7 @@ function App() {
           </div>
         </div>
       </section>
-      
+
       <section className="contact" id="contact">
         <h2 className="animate-slide">Let’s Build Your Website</h2>
         <p className="animate-slide">Interested in working with us? Whether you're a student or business, we’ve got your back.</p>
@@ -136,12 +136,9 @@ function App() {
           <span className="tooltip">Linkedin</span>
         </a>
       </div>
-      <div id="loader">
-        <div className="spinner"></div>
-      </div>
+      
 
     </div>
   );
 }
-
 export default App;
